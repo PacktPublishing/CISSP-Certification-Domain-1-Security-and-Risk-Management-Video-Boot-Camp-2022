@@ -21,7 +21,3 @@ Kindly find all resourses for Domain 1 to 8 on the below repos:
 - [Domain 7](https://github.com/PacktPublishing/CISSP-Certification-Domain-7-Security-Operations-Video-Boot-Camp-2022)
 - [Domain 8](https://github.com/PacktPublishing/CISSP-Certification-Domain-8-Software-Development-Security-Video-Boot-Camp-2022)
 
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781838641467">https://packt.link/free-ebook/9781838641467 </a> </p>
